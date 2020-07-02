@@ -1,0 +1,92 @@
+.morning {
+  background-image: url(images/hannah-grace-znL3MUoOOtg-unsplash.jpg);
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.afternoon {
+  background-image: url(images/mihaly-koles-4jijsYHM1UE-unsplash.jpg);
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.night {
+  background-image: url(images/eberhard-grossgasteiger-cs0sK0gzqCU-unsplash.jpg);
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.navbar {
+  background-color: transparent;
+}
+
+.myDrop {
+  background-color: transparent !important;
+  border-style: hidden !important;
+  color:#a6dcef;
+}
+
+.udemy-logo {
+  height: 30px;
+  width: 30px;
+}
+
+.email-logo {
+  height: 30px;
+  width: 30px;
+}
+
+.rbs-logo {
+  height: 30px;
+  width: 30px;
+  border-radius: 25%;
+  border-style: solid;
+  border-color: grey;
+  border-width: 1px;
+}
+
+.bootstrap-logo {
+  height:30px;
+  width: 30px;
+  border-radius: 25%;
+  border-style: solid;
+  border-color: grey;
+  border-width: 1px;
+}
+
+.dg {
+border-radius: 30%;
+}
+
+.afternoonColour {
+  color: red !important;
+}
+
+.container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 600px;
+  text-align: center;
+}
+
+.myClock {
+  padding-top: 0;
+}
+.main-title {
+  font-size: 3.5rem;
+  color: #a6dcef;
+  font-family: 'Yellowtail', cursive;
+}
+
+.sub-title {
+  font-size: 1.5rem;
+  color: #a6dcef;
+}
